@@ -10,4 +10,3 @@
     - Single Line Comments
     - inline Comments
     - Multiline Comments
-    - Docstrings
