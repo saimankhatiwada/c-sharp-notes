@@ -10,9 +10,3 @@
     - Single Line Comments
     - inline Comments
     - Multiline Comments
-    - Docstrings
-- indentation
-
-## Quiz
-
-- [Chapter 1 Quiz](quiz)
